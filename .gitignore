@@ -1,0 +1,34 @@
+# MATLAB / Simulink temporary and generated files
+*.asv
+*.autosave
+*.m~
+*.slxc
+slprj/
+codegen/
+
+# SigmaStudio temporary files
+*.bak
+*.tmp
+*.log
+
+# Office temporary files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+
+# Copyrighted commercial music and music videos
+assets/videos/Bella Ciao - La Casa De Papel (Money Heist) [4K].mp4
+assets/videos/Ed Sheeran - Perfect (Official Music Video).mp4
+assets/videos/Indila - Dernière Danse (Clip Officiel).mp4
+assets/videos/Seishun Buta Yarou ED1  - 『 Fukashigi No Karte 』[ Sakurajima Mai ] VER. With Lyrics.mp4
+assets/videos/Télécharger Damso - SENTIMENTAL MP3 Gratuit - 5000Hits.com.mp3
+
+# Duplicate raw audio copies in data/processed
+data/processed/bruit_avec_mousse.wav
+data/processed/bruit_equalise.wav
+data/processed/bruit_original.wav
+
+# Windows
+Thumbs.db
+desktop.ini
+.DS_Store
